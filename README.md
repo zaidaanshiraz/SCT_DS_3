@@ -1,5 +1,3 @@
-### SCT_DS_TSK 3
-
 # Decision Tree Classifier for Predicting Customer Purchases
 
 This project involves building a Decision Tree Classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. The model is trained using the **Bank Marketing Dataset** from the UCI Machine Learning Repository. 
