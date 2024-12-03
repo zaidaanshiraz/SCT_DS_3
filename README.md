@@ -44,3 +44,4 @@ The goal is to predict the value of the `y` column, which indicates whether a cu
     - Visualize the trained Decision Tree using `plot_tree`.
     - Generate a confusion matrix heatmap to visualize performance.
     - Create additional visualizations such as feature importance, ROC curve, and precision-recall curve to further evaluate the model.
+    - Name: Mohammed Zaidaan Shiraz Email: zaidaanshiraz8@gmail.com GitHub: zaidaanshiraz
